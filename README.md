@@ -6,6 +6,7 @@ LearnSphere is a high-performance web platform designed to simplify the learning
 By utilizing a "Vanilla Tech Stack," this project achieves lightning-fast load times and a premium UI/UX without relying on external frameworks like React or Bootstrap.
 
 ## ✨ Key Features
+
 * **AI Logic Engine:** A simulated environment providing line-by-line analysis of complex code (e.g., Recursion).
 * **Smart Notes Hub:** A centralized repository for managing academic resources and study materials.
 * **Secure Student Portal:** Integrated 10-digit ID verification system to simulate personalized dashboard access.
