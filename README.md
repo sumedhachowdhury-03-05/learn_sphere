@@ -13,7 +13,6 @@ By utilizing a "Vanilla Tech Stack," this project achieves lightning-fast load t
 * **Mobile-First Design:** Fully responsive layouts built with CSS Grid and Flexbox for all device sizes.
 
 ## 🛠️ Technical Highlights
-
 * **Zero Frameworks:** No React, Bootstrap, or jQuery. Built entirely with core HTML5, CSS3, and ES6+ JavaScript.
 * **Optimized Performance:** Single-file delivery reduces HTTP requests to a minimum, resulting in near-instant load times.
 * **Custom Animation System:** Hand-coded `@keyframes` for smooth component transitions and hover states.
